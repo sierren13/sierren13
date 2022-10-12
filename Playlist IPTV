@@ -1,0 +1,40 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="NASIONAL", Indosiar HD
+https://m3u-editor.com/serve/66b5d270-49c8-11ed-87cb-07f694b3b77a/659259165
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://static.mncnow.id/images/channel/ba065727/a4fd.png",MNCTV
+https://stream-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="NASIONAL", ANTV
+https://stream-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="NASIONAL", SCTV
+https://m3u-editor.com/serve/66b5d270-49c8-11ed-87cb-07f694b3b77a/659259166
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png",RCTI
+https://stream-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://static.mncnow.id/images/channel/ef3eed68/040d.png",GTV
+https://stream-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png" group-title="NASIONAL", TVOne
+https://stream-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF: -1 tvg-name="Trans7" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hfSgVb256JvcaGDLMm5wI0Qj1NI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg" group-title="NASIONAL", Trans7
+https://stream-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="NASIONAL", Trans TV
+https://stream-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#EXTINF: -1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/tpng" group-title="NASIONAL", O Channel
+https://m3u-editor.com/serve/66b5d270-49c8-11ed-87cb-07f694b3b77a/659259169
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF: -1 tvg-name="Kompas TV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/aHHdz-Y50b34HI_WD-w8t4JdQQw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/
